@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactAppSchronisko.Server", "ReactAppSchronisko.Server\ReactAppSchronisko.Server.csproj", "{BE0D7B54-B08B-439F-8D12-83141C5D96E3}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactappschronisko.client", "reactappschronisko.client\reactappschronisko.client.esproj", "{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE0D7B54-B08B-439F-8D12-83141C5D96E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0D7B54-B08B-439F-8D12-83141C5D96E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0D7B54-B08B-439F-8D12-83141C5D96E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0D7B54-B08B-439F-8D12-83141C5D96E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6E9E39C-4F8C-44F6-AE8C-DD243D984D02}
+	EndGlobalSection
+EndGlobal

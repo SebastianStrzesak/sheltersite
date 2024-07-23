@@ -1,0 +1,6 @@
+@ReactAppSchronisko.Server_HostAddress = http://localhost:5201
+
+GET {{ReactAppSchronisko.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

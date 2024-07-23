@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|c:\\users\\sebastian\\desktop\\projekttiusiv\\reactappschronisko\\reactappschronisko.client\\src\\pages\\znalazlemzwierzaka\\znalezionepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|solutionrelative:reactappschronisko.client\\src\\pages\\znalazlemzwierzaka\\znalezionepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\pages\\hotel\\hotelpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|solutionrelative:reactappschronisko.client\\src\\pages\\hotel\\hotelpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\pages\\przegladzwierzakow\\psypage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|solutionrelative:reactappschronisko.client\\src\\pages\\przegladzwierzakow\\psypage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\pages\\zgubilemzwierzaka\\zagubionepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|solutionrelative:reactappschronisko.client\\src\\pages\\zgubilemzwierzaka\\zagubionepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|solutionrelative:reactappschronisko.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\pages\\wspolpraca\\wspolpracapage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|solutionrelative:reactappschronisko.client\\src\\pages\\wspolpraca\\wspolpracapage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\layout\\layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CF83A3C-8691-4A92-8C66-A586B1A59E5E}|reactappschronisko.client\\reactappschronisko.client.esproj|solutionrelative:reactappschronisko.client\\src\\layout\\layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "layout.jsx",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\layout\\layout.jsx",
+              "RelativeDocumentMoniker": "reactappschronisko.client\\src\\layout\\layout.jsx",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\layout\\layout.jsx",
+              "RelativeToolTip": "reactappschronisko.client\\src\\layout\\layout.jsx",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAcwPwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-24T19:07:40.579Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "psyPage.jsx",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\Pages\\przegladZwierzakow\\psyPage.jsx",
+              "RelativeDocumentMoniker": "reactappschronisko.client\\src\\Pages\\przegladZwierzakow\\psyPage.jsx",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\Pages\\przegladZwierzakow\\psyPage.jsx",
+              "RelativeToolTip": "reactappschronisko.client\\src\\Pages\\przegladZwierzakow\\psyPage.jsx",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAqwCgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-14T14:44:03.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "znalezionePage.jsx",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\Pages\\znalazlemZwierzaka\\znalezionePage.jsx",
+              "RelativeDocumentMoniker": "reactappschronisko.client\\src\\Pages\\znalazlemZwierzaka\\znalezionePage.jsx",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\Pages\\znalazlemZwierzaka\\znalezionePage.jsx",
+              "RelativeToolTip": "reactappschronisko.client\\src\\Pages\\znalazlemZwierzaka\\znalezionePage.jsx",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-14T16:36:54.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "zagubionePage.jsx",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\Pages\\zgubilemZwierzaka\\zagubionePage.jsx",
+              "RelativeDocumentMoniker": "reactappschronisko.client\\src\\Pages\\zgubilemZwierzaka\\zagubionePage.jsx",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\Pages\\zgubilemZwierzaka\\zagubionePage.jsx",
+              "RelativeToolTip": "reactappschronisko.client\\src\\Pages\\zgubilemZwierzaka\\zagubionePage.jsx",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAcwCkBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-14T17:02:57.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "reactappschronisko.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\main.jsx",
+              "RelativeToolTip": "reactappschronisko.client\\src\\main.jsx",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-13T22:23:34.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "wspolpracaPage.jsx",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\Pages\\wspolpraca\\wspolpracaPage.jsx",
+              "RelativeDocumentMoniker": "reactappschronisko.client\\src\\Pages\\wspolpraca\\wspolpracaPage.jsx",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\Pages\\wspolpraca\\wspolpracaPage.jsx",
+              "RelativeToolTip": "reactappschronisko.client\\src\\Pages\\wspolpraca\\wspolpracaPage.jsx",
+              "ViewState": "AQIAAHgBAAAAAAAAAAAYwI0BAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-14T14:24:58.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hotelPage.jsx",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\Pages\\hotel\\hotelPage.jsx",
+              "RelativeDocumentMoniker": "reactappschronisko.client\\src\\Pages\\hotel\\hotelPage.jsx",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\ProjektTIUsIV\\ReactAppSchronisko\\reactappschronisko.client\\src\\Pages\\hotel\\hotelPage.jsx",
+              "RelativeToolTip": "reactappschronisko.client\\src\\Pages\\hotel\\hotelPage.jsx",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAAAN4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-14T16:15:14.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
